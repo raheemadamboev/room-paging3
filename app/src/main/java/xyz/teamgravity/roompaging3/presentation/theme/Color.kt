@@ -1,4 +1,4 @@
-package xyz.teamgravity.roompaging3.ui.theme
+package xyz.teamgravity.roompaging3.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
